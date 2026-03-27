@@ -1,0 +1,32 @@
+uv run python main.py
+
+uv add [원하는 패키지]
+.env 파일
+
+강사님 git
+https://github.com/cozytk/posco-dx-agent-dev-day1
+2 3 4 5 
+
+draw diagram
+https://excalidraw.com/#room=7e6d7d5343e2c22da03e,5QuF7nW90Yr0y6RRofjp2w
+
+노션
+https://teamsparta.notion.site/DX-26-AX-31a2dc3ef514817c8febf9ee066928b2
+
+패들릿
+https://padlet.com/biz14/breakout-room/Bk5x4dLoOeGM4Zgz-B8nYzL7nxwE2bV4L
+
+다이어그램 노션
+https://www.notion.so/taekyunkim/c5672f57243d4b06bb38b99702cec5da?v=30093ebc04f74285aceb851c2d8ec58c
+
+랭스미스
+https://smith.langchain.com/o/0f85f9e3-a7fa-4db8-8fca-adbf499dfa99
+
+랭체인
+
+랭퓨즈
+
+wsl
+
+docker-desktop
+등등 한번 해보자
